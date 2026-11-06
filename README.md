@@ -1,20 +1,27 @@
 # Hi, I'm Hüseyin 👋
 
-Computer engineering student who loves Linux. I like making my desktop look good
-and building small apps that make everyday things easier.
+Computer engineering student who loves Linux. I build small, polished apps that make everyday things easier,
+and I like making my desktop look good.
 
-🔧 **Languages:** Python · C# · C++ · QML
+🔧 **Languages:** Python · Dart · Kotlin · C# · C++ · QML · Shell
 🐧 **Daily driver:** Fedora + KDE Plasma
-🌱 **Learning:** desktop app development, Qt, packaging (Flatpak / AUR)
+🌱 **Learning:** Qt / QML, Flutter and Android, packaging (Flatpak / AUR), self-hosting
 
 ## Projects
 
+### Apps (the Pengu family)
+
 | | Project | What it is |
 |---|---|---|
-| 🐧 | [**Penguchat**](https://github.com/hTulu07/penguchat) | A small WhatsApp Web desktop app for any Linux distro (PyQt6) |
-| 🎛️ | [**Gece Control**](https://github.com/hTulu07/gece-control) | A native-looking control center widget for KDE Plasma 6 |
 | 📱 | [**Pengulink**](https://github.com/hTulu07/pengulink) | Phone ↔ PC link for Android and Linux: clipboard, files, notifications and media control through a self-hosted hub (Flutter, Kotlin, PyQt6) |
+| 🐧 | [**Penguchat**](https://github.com/hTulu07/penguchat) | A small WhatsApp Web desktop app for any Linux distro (PyQt6) |
+| 🎵 | [**Pengutune**](https://github.com/hTulu07/pengutune) | A native, Spotify-style YouTube Music player for Linux (PyQt6, mpv) |
+| 🎧 | [**Pengufy**](https://github.com/hTulu07/pengufy) | A simple, single-page Spotify player for Linux (Premium required, see the README's known issue) |
+| 📚 | [**Pengunot**](https://github.com/hTulu07/pengunot) | Turns a course folder into study PDFs: summary, practice exam, formula card (PyQt6) |
 
-## Activity
+### KDE Plasma
 
-<img src="https://streak-stats.demolab.com/?user=hTulu07&hide_border=true&background=0f141c&ring=7aa8ff&fire=7aa8ff&currStreakLabel=7aa8ff&sideNums=d8e0ea&currStreakNum=d8e0ea&sideLabels=d8e0ea&dates=8b98ab&stroke=263142" alt="GitHub streak" height="165">
+| | Project | What it is |
+|---|---|---|
+| 🎛️ | [**Gece Control**](https://github.com/hTulu07/gece-control) | A native-looking control center widget for Plasma 6 (QML) |
+| 🌙 | [**Gece dotfiles**](https://github.com/hTulu07/gece-dotfiles) | A quiet night-blue Plasma 6 setup for Fedora: kitty, zsh, Zen, GRUB, Plymouth, login screen |
